@@ -7,7 +7,7 @@ Jones and Weisman, "Multi-fidelity orbit uncertainty propagation", _Acta Astrona
 
 **NOTE:  You will need to use your own orbit propagation software.  An orbit propagtor is not provided in this package.**
 
-This software only provides a minimal example based on a harmonic oscillator.  A multi-fidelity solution is not really needed for that test case, but it is used as a simply illustration of the software.  You will need to provide a wrapper for an orbit propagator of your choice to duplicate the results of the paper.  
+This software only provides a minimal example based on a harmonic oscillator.  A multi-fidelity solution is not really needed for that test case, but it is used as a simple illustration of the software.  You will need to provide a wrapper for an orbit propagator of your choice to duplicate the results of the paper.  
 
 ## Dependencies:
 
@@ -16,7 +16,7 @@ This software assumes that you have packages that are standard in Conda (for exa
 - NumPy
 - MatPlotLib
 
-## Acknolwedgement
+## Acknowledgement
 
 If you use this software as part of a publication, we ask that you cite our paper listed above.  It is also prudent to cite the papers upon which we developed this tool:
 
